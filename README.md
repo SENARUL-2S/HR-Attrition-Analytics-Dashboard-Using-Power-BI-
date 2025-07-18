@@ -1,7 +1,9 @@
 # 🧠 HR Attrition Analytics Dashboard – Power BI
 
-## 📊 Project Title
-**Employee Attrition Analysis using Power BI**
+<!-- Profile Banner GIF -->
+<p align="center">
+  <img src="https://github.com/SENARUL-2S/Amazon-Prime-Video-Dashboard-Using-Power-BI/blob/main/Amazon prime video dashboard.png" width="900" height ="350" alt="Coding gif"/>
+</p>
 
 ## 📌 Project Description
 This project presents a Power BI dashboard to analyze employee attrition data and uncover key factors contributing to employee turnover. The goal is to help HR departments make informed, data-driven decisions to improve employee satisfaction and reduce attrition rates.
