@@ -2,7 +2,7 @@
 
 <!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://github.com/SENARUL-2S/Amazon-Prime-Video-Dashboard-Using-Power-BI/blob/main/Amazon prime video dashboard.png" width="900" height ="350" alt="Coding gif"/>
+  <img src="https://github.com/SENARUL-2S/HR-Attrition-Analytics-Dashboard-Using-Power-BI-/blob/main/HR Attrition dashboard.png" width="900" height ="350" alt="Coding gif"/>
 </p>
 
 ## 📌 Project Description
